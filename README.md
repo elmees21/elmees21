@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi! 👋 I'm Eloi Mesa
 
-<!--
-**elmees21/elmees21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Spanish (Castellano)](https://img.shields.io/badge/Leer_en-Español-red)](https://github.com/elmees21/elmees21/READMEES.md)
+[![Catalan (Català)](https://img.shields.io/badge/Llegir_en-Català-yellow)](https://github.com/elmees21/elmees21/READMECA.md)
 
-Here are some ideas to get you started:
+Visit my website! [https://elmees21.github.io/](https://elmees21.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I actually know:
+- 🌐 HTML
+- 🎨 CSS
+- 💻 JavaScript
+
+I'm learning: 
+- 🐍 Python
+- 📱 Kotlin
+
+### Social media 📱
+- [Twitter/X (🐦)](https://twitter.com/elmees21)
+- [Instagram (📸)](https://instagram.com/anbecodes)
