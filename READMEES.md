@@ -14,6 +14,6 @@ Estoy aprendiendo:
 - 🐍 Python
 - 📱 Kotlin
 
-### Redes Sociales: 📱
+### 📱 Redes Sociales:
 - [Twitter/X (🐦)](https://twitter.com/elmees21)
 - [Instagram (📸)](https://instagram.com/anbecodes)
