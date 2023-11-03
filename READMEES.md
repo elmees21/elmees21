@@ -1,6 +1,6 @@
 ## ¡Hola! 👋 Soy Eloi Mesa
 
-[![English](https://img.shields.io/badge/Read_this_in-English-blue)](https://github.com/elmees21/elmees21/README.md)
+[![English](https://img.shields.io/badge/Read_this_in-English-blue)](https://github.com/elmees21/elmees21/blob/main/README.md)
 [![Catalan (Català)](https://img.shields.io/badge/Llegir_en-Català-yellow)](https://github.com/elmees21/elmees21/READMECA.md)
 
 ¡Visita mi sitio web! [https://elmees21.github.io/](https://elmees21.github.io/)
