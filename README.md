@@ -5,7 +5,7 @@
 
 Visit my website! [https://elmees21.github.io/](https://elmees21.github.io/)
 
-Lenguajes de programación que manejo:
+Programming languages I use:
 - 🌐 HTML
 - 🎨 CSS
 - 💻 JavaScript
